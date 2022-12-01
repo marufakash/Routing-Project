@@ -1,0 +1,12 @@
+.shop{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+.product{
+    width: 80%;
+}
+.cart{
+    border-left: 1px solid rgb(202, 198, 198);
+    width: 20%;
+}
