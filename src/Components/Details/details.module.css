@@ -1,0 +1,45 @@
+.details{
+    display: flex;
+    padding: 20px;   
+    text-align: center;
+}
+.details img{
+    width: 400px;
+}
+.img{
+    width: 45%;
+    padding-top: 30px;
+}
+.des{
+    width: 55%;
+}
+.des{
+    padding-top: 30px;
+    text-align: justify;
+}
+.des p{
+    padding: 5px 0;
+    letter-spacing: 0.4px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.article article{
+    background-color: #EEE;
+    padding: 10px 16px;
+    margin: 10px 10px 10px 0;
+    border-radius: 20px;
+    display: inline-block;
+}
+.article span{
+    font-weight: 600;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.des h2{
+    word-spacing: -0.7px;
+    padding-bottom: 20px;
+}
+.des h3{
+    padding: 10px 0;
+    font-size: 25px;
+}
